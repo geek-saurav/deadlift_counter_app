@@ -34,6 +34,6 @@ The detect() function is used to detect the different stages of the deadlift and
 
 The GUI is updated in real-time with the current stage, number of repetitions completed, and probability. The detect() function is called repeatedly to update the GUI continuously.
 
-##Future Improvements
+## Future Improvements
 
 This app can be improved by adding a feature to save the data from each deadlift session. This could include the number of repetitions completed, the time taken to complete the session, and other useful metrics. The app could also be improved by adding more exercises and pre-trained machine learning models to detect them.
